@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "price": 20,
+    "name": "Banana chips 80g ",
+    "image":"https://storage.googleapis.com/dev-office-195018.appspot.com/banana80",
+    "category": "Banana Chips"
+  },
+  {
+    "id": 2,
+    "price": 50,
+    "name": "Banana chips 160g",
+    "image":"http://storage.googleapis.com/dev-office-195018.appspot.com/banana160",
+    "category": "Banana Chips"
+  },
+  {
+    "id": 3,
+    "price": 100,
+    "name": "Tapioca chips 100g",
+    "image":"https://storage.googleapis.com/dev-office-195018.appspot.com/tapioca100",
+    "category": "Tapioca Chips"
+  },
+  {
+    "id": 1,
+    "price": 20,
+    "name": "Tapioca chips 250g ",
+    "image":"https://storage.googleapis.com/dev-office-195018.appspot.com/tapioca250",
+    "category": "Tapioca Chips"
+  },
+  {
+    "id": 2,
+    "price": 50,
+    "name": "Potato chips 100g",
+    "image":"https://storage.googleapis.com/dev-office-195018.appspot.com/potato100",
+    "category": "Potato  Chips"
+  },
+  {
+    "id": 3,
+    "price": 100,
+    "name": "Potato chips 100g",
+    "image":"https://storage.googleapis.com/dev-office-195018.appspot.com/potato100",
+    "category": "Potato  Chips"
+  }
+ 
+]
+
+
+
+
